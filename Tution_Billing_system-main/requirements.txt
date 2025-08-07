@@ -111,3 +111,4 @@ wrapt==1.16.0
 xhtml2pdf==0.2.16
 zopfli==0.2.3
 gunicorn
+whitenoise
